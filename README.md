@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+### 🚀 About Me
 - 🔭 I’m currently working on 🤔
 - 🌱 I’m currently learning 🤔
 - 📫 How to reach me: [csxawei@foxmail.com](mailto:csxawei@foxmail.com)
-- ✨ Fun Quote: > "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
+### ✨ Fun Quote
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 <!--
 **xawei/xawei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

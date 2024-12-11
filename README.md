@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### 🚀 About Me
-- 💻 Program Language: Golang, C/C++
+- 💻 Program Languages: Golang, C/C++
 - 🔧 Skill Set: Kubernetes, Istio, Docker, Terraform
-- ☁️ Cloud Platform: AWS, Tencentcloud
+- ☁️ Cloud Platforms: AWS, Tencentcloud
 - 📫 How to reach me: [csxawei@foxmail.com](mailto:csxawei@foxmail.com)
 
 ### ✨ Fun Quote

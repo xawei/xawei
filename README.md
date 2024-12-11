@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently working on 🤔
-- 🌱 I’m currently learning 🤔
+- 💻 Program Language: Golang, C/C++
+- 🔧 Skill Set: Kubernetes, Istio, Docker, Terraform
+- ☁️ Cloud Platform: AWS, Tencentcloud
 - 📫 How to reach me: [csxawei@foxmail.com](mailto:csxawei@foxmail.com)
 
 ### ✨ Fun Quotes

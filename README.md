@@ -6,7 +6,8 @@
 - 📫 How to reach me: [csxawei@foxmail.com](mailto:csxawei@foxmail.com)
 
 ### ✨ Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House  
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 > "If it’s work, we try to do less. If it’s art, we try to do more." – Seth Godin
 
 <!--

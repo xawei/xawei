@@ -7,7 +7,7 @@
 - 📫 How to reach me: [csxawei@foxmail.com](mailto:csxawei@foxmail.com)
 
 ### ✨ Fun Quote
-> "If it’s work, we try to do less. If it’s art, we try to do more." – Seth Godin
+> "If it’s work, we try to do less. If it’s art, we try to do more."
 
 <!--
 **xawei/xawei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
